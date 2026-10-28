@@ -1,0 +1,130 @@
+Train bars: 17425 | Test bars: 18053
+Dynamically estimated threshold (1 SD of predictions): 0.0246
+
+================================================================================
+EVALUATION: TRAIN 2017-2020 -> TEST 2020-2022 (NO FIXED PARAMETERS)
+================================================================================
+
+IN-SAMPLE (2017 to 2020-01-31) [Long/Short (allow_short=1)]
+-----------------------------------------------------------
+cagr             9.37%
+total_return     28.81%
+max_dd           -3.15%
+sharpe           0.599
+calmar           2.977
+years            2.828
+trades           283
+win_rate         36.75%
+avg_trade        0.03%
+turnover_per_yr  200.127
+time_in_market   19.31%
+year-wise return:
+   2017     0.36%
+   2018    11.00%
+   2019    13.71%
+   2020     1.68%
+
+OUT-OF-SAMPLE TEST (2020-02-01 to 2022-12-31) [Long/Short (allow_short=1)]
+--------------------------------------------------------------------------
+cagr             10.32%
+total_return     33.08%
+max_dd           -12.01%
+sharpe           0.439
+calmar           0.859
+years            2.910
+trades           332
+win_rate         36.14%
+avg_trade        0.04%
+turnover_per_yr  228.152
+time_in_market   22.00%
+year-wise return:
+   2020    28.74%
+   2021    14.13%
+   2022    -9.42%
+
+FULL HORIZON (2017 to 2026) [Long/Short (allow_short=1)]
+--------------------------------------------------------
+cagr             10.05%
+total_return     149.94%
+max_dd           -14.04%
+sharpe           0.542
+calmar           0.716
+years            9.563
+trades           1006
+win_rate         37.38%
+avg_trade        0.04%
+turnover_per_yr  210.387
+time_in_market   20.86%
+year-wise return:
+   2017     0.36%
+   2018    11.00%
+   2019    13.71%
+   2020    31.60%
+   2021    14.13%
+   2022    -9.42%
+   2023     5.67%
+   2024    13.06%
+   2025     6.04%
+   2026    14.46%
+
+IN-SAMPLE (2017 to 2020-01-31) [Long-Only (allow_short=0)]
+----------------------------------------------------------
+cagr             9.98%
+total_return     30.86%
+max_dd           -1.19%
+sharpe           1.322
+calmar           8.409
+years            2.828
+trades           38
+win_rate         52.63%
+avg_trade        0.30%
+turnover_per_yr  26.872
+time_in_market   4.70%
+year-wise return:
+   2017     6.16%
+   2018     7.97%
+   2019    13.11%
+   2020     0.93%
+
+OUT-OF-SAMPLE TEST (2020-02-01 to 2022-12-31) [Long-Only (allow_short=0)]
+-------------------------------------------------------------------------
+cagr             12.54%
+total_return     41.02%
+max_dd           -2.98%
+sharpe           1.114
+calmar           4.202
+years            2.910
+trades           75
+win_rate         38.67%
+avg_trade        0.25%
+turnover_per_yr  51.540
+time_in_market   7.61%
+year-wise return:
+   2020    17.22%
+   2021    15.42%
+   2022     4.23%
+
+FULL HORIZON (2017 to 2026) [Long-Only (allow_short=0)]
+-------------------------------------------------------
+cagr             9.72%
+total_return     142.73%
+max_dd           -4.13%
+sharpe           0.880
+calmar           2.352
+years            9.563
+trades           176
+win_rate         43.75%
+avg_trade        0.21%
+turnover_per_yr  36.807
+time_in_market   5.88%
+year-wise return:
+   2017     6.16%
+   2018     7.97%
+   2019    13.11%
+   2020    18.34%
+   2021    15.42%
+   2022     4.23%
+   2023     8.66%
+   2024     5.12%
+   2025    11.13%
+   2026     3.59%

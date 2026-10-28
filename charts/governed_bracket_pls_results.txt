@@ -1,0 +1,168 @@
+
+================================================================================
+RESULTS: SYNTHETIC BRACKET GOVERNED PLS MODEL
+================================================================================
+
+IN-SAMPLE (2017 to Jan 2020) [Long-Only (allow_short=0)]
+--------------------------------------------------------
+cagr             7.35%
+total_return     22.22%
+max_dd           -0.44%
+sharpe           1.070
+calmar           16.623
+years            2.828
+trades           53
+win_rate         47.17%
+avg_trade        0.07%
+turnover_per_yr  37.480
+time_in_market   0.80%
+year-wise return:
+   2017     4.49%
+   2018     8.75%
+   2019     7.16%
+   2020     0.36%
+
+OOS 1: 2020-2022 (COVID + Bull + Bear) [Long-Only (allow_short=0)]
+------------------------------------------------------------------
+cagr             5.27%
+total_return     16.13%
+max_dd           -1.48%
+sharpe           -0.318
+calmar           3.572
+years            2.910
+trades           104
+win_rate         38.46%
+avg_trade        -0.02%
+turnover_per_yr  71.469
+time_in_market   1.33%
+year-wise return:
+   2020     5.85%
+   2021     4.83%
+   2022     4.66%
+
+OOS 2: 2022-2026 [Long-Only (allow_short=0)]
+--------------------------------------------
+cagr             5.59%
+total_return     29.33%
+max_dd           -1.48%
+sharpe           -0.294
+calmar           3.783
+years            4.731
+trades           110
+win_rate         44.55%
+avg_trade        -0.01%
+turnover_per_yr  46.502
+time_in_market   1.05%
+year-wise return:
+   2022     4.12%
+   2023     5.13%
+   2024     4.78%
+   2025     6.55%
+   2026     5.82%
+
+FULL HORIZON (2017 to 2026) [Long-Only (allow_short=0)]
+-------------------------------------------------------
+cagr             6.11%
+total_return     76.34%
+max_dd           -1.48%
+sharpe           0.040
+calmar           4.138
+years            9.563
+trades           229
+win_rate         41.48%
+avg_trade        0.01%
+turnover_per_yr  47.891
+time_in_market   1.00%
+year-wise return:
+   2017     4.49%
+   2018     8.75%
+   2019     7.16%
+   2020     6.25%
+   2021     4.83%
+   2022     4.66%
+   2023     5.13%
+   2024     4.78%
+   2025     6.55%
+   2026     5.82%
+
+IN-SAMPLE (2017 to Jan 2020) [Long/Short (allow_short=1)]
+---------------------------------------------------------
+cagr             1.76%
+total_return     5.06%
+max_dd           -2.89%
+sharpe           -1.271
+calmar           0.609
+years            2.828
+trades           419
+win_rate         30.31%
+avg_trade        -0.03%
+turnover_per_yr  296.302
+time_in_market   5.91%
+year-wise return:
+   2017    -1.26%
+   2018     6.86%
+   2019     0.49%
+   2020    -0.92%
+
+OOS 1: 2020-2022 (COVID + Bull + Bear) [Long/Short (allow_short=1)]
+-------------------------------------------------------------------
+cagr             -9.13%
+total_return     -24.31%
+max_dd           -25.24%
+sharpe           -1.944
+calmar           -0.362
+years            2.910
+trades           512
+win_rate         33.59%
+avg_trade        -0.09%
+turnover_per_yr  351.849
+time_in_market   6.55%
+year-wise return:
+   2020    -8.97%
+   2021    -8.17%
+   2022    -9.46%
+
+OOS 2: 2022-2026 [Long/Short (allow_short=1)]
+---------------------------------------------
+cagr             -1.79%
+total_return     -8.19%
+max_dd           -13.41%
+sharpe           -1.929
+calmar           -0.133
+years            4.731
+trades           783
+win_rate         32.31%
+avg_trade        -0.05%
+turnover_per_yr  331.008
+time_in_market   6.63%
+year-wise return:
+   2022    -8.05%
+   2023     2.23%
+   2024    -2.41%
+   2025    -3.52%
+   2026     3.74%
+
+FULL HORIZON (2017 to 2026) [Long/Short (allow_short=1)]
+--------------------------------------------------------
+cagr             -2.40%
+total_return     -20.74%
+max_dd           -29.82%
+sharpe           -1.588
+calmar           -0.081
+years            9.563
+trades           1534
+win_rate         32.14%
+avg_trade        -0.05%
+turnover_per_yr  320.809
+time_in_market   6.27%
+year-wise return:
+   2017    -1.26%
+   2018     6.86%
+   2019     0.49%
+   2020    -9.96%
+   2021    -8.17%
+   2022    -9.46%
+   2023     2.23%
+   2024    -2.41%
+   2025    -3.52%
+   2026     3.74%

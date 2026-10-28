@@ -1,0 +1,278 @@
+
+================================================================================
+CALIBRATION: Train 2017-2020 Full (Train <= 2020-12-31, Test >= 2022-02-01)
+================================================================================
+Optimal MAD multiplier: 8.164 -> Kurtosis Bounds: [-1.366, 1.393]
+PLS Beta Weights: [ 0.002933  0.009111 -0.002256 -0.00052   0.006609  0.006073  0.012892
+  0.005918]
+
+>>> Running Harness for Long/Short (allow_short=1) <<<
+
+IN-SAMPLE (2017 to 2020-12-31) [Long/Short (allow_short=1)]
+-----------------------------------------------------------
+cagr             15.49%
+total_return     71.50%
+max_dd           -3.90%
+sharpe           1.222
+calmar           3.977
+years            3.745
+trades           233
+win_rate         37.34%
+avg_trade        0.13%
+turnover_per_yr  124.420
+time_in_market   15.69%
+year-wise return:
+   2017     4.05%
+   2018    15.79%
+   2019     9.22%
+   2020    30.33%
+
+OUT-OF-SAMPLE (2022-02-01 to 2026-10-26) [Long/Short (allow_short=1)]
+---------------------------------------------------------------------
+cagr             4.71%
+total_return     24.31%
+max_dd           -8.03%
+sharpe           -0.169
+calmar           0.587
+years            4.731
+trades           314
+win_rate         31.21%
+avg_trade        -0.03%
+turnover_per_yr  132.741
+time_in_market   15.64%
+year-wise return:
+   2022    -3.91%
+   2023     4.47%
+   2024     2.48%
+   2025     3.94%
+   2026    16.26%
+
+FULL HORIZON (2017 to 2026) [Long/Short (allow_short=1)]
+--------------------------------------------------------
+cagr             9.92%
+total_return     147.04%
+max_dd           -8.03%
+sharpe           0.555
+calmar           1.236
+years            9.563
+trades           618
+win_rate         33.98%
+avg_trade        0.05%
+turnover_per_yr  129.244
+time_in_market   15.55%
+year-wise return:
+   2017     4.05%
+   2018    15.79%
+   2019     9.22%
+   2020    30.33%
+   2021    15.09%
+   2022    -3.25%
+   2023     4.47%
+   2024     2.48%
+   2025     3.94%
+   2026    16.26%
+
+>>> Running Harness for Long-Only (allow_short=0) <<<
+
+IN-SAMPLE (2017 to 2020-12-31) [Long-Only (allow_short=0)]
+----------------------------------------------------------
+cagr             9.56%
+total_return     40.78%
+max_dd           -1.38%
+sharpe           1.126
+calmar           6.919
+years            3.745
+trades           9
+win_rate         55.56%
+avg_trade        1.41%
+turnover_per_yr  4.806
+time_in_market   1.02%
+year-wise return:
+   2017     4.48%
+   2018     6.01%
+   2019     9.10%
+   2020    16.51%
+
+OUT-OF-SAMPLE (2022-02-01 to 2026-10-26) [Long-Only (allow_short=0)]
+--------------------------------------------------------------------
+cagr             5.95%
+total_return     31.46%
+max_dd           -0.86%
+sharpe           -0.159
+calmar           6.936
+years            4.731
+trades           6
+win_rate         16.67%
+avg_trade        -0.06%
+turnover_per_yr  2.536
+time_in_market   0.52%
+year-wise return:
+   2022     5.36%
+   2023     6.01%
+   2024     6.08%
+   2025     5.85%
+   2026     4.83%
+
+FULL HORIZON (2017 to 2026) [Long-Only (allow_short=0)]
+-------------------------------------------------------
+cagr             7.81%
+total_return     105.36%
+max_dd           -1.38%
+sharpe           0.799
+calmar           5.655
+years            9.563
+trades           16
+win_rate         43.75%
+avg_trade        1.03%
+turnover_per_yr  3.346
+time_in_market   0.76%
+year-wise return:
+   2017     4.48%
+   2018     6.01%
+   2019     9.10%
+   2020    16.51%
+   2021    10.42%
+   2022     5.88%
+   2023     6.01%
+   2024     6.08%
+   2025     5.85%
+   2026     4.83%
+
+================================================================================
+CALIBRATION: Train 2017-Jan 2020 Pre-COVID (Train <= 2020-01-31, Test >= 2022-02-01)
+================================================================================
+Optimal MAD multiplier: 8.870 -> Kurtosis Bounds: [-1.309, 1.327]
+PLS Beta Weights: [ 0.00146   0.014065 -0.002353 -0.004571  0.000559  0.005998  0.006407
+  0.0083  ]
+
+>>> Running Harness for Long/Short (allow_short=1) <<<
+
+IN-SAMPLE (2017 to 2020-01-31) [Long/Short (allow_short=1)]
+-----------------------------------------------------------
+cagr             6.77%
+total_return     20.34%
+max_dd           -1.77%
+sharpe           0.199
+calmar           3.812
+years            2.828
+trades           125
+win_rate         34.40%
+avg_trade        0.01%
+turnover_per_yr  88.395
+time_in_market   9.06%
+year-wise return:
+   2017     2.30%
+   2018    10.78%
+   2019     4.56%
+   2020     1.56%
+
+OUT-OF-SAMPLE (2022-02-01 to 2026-10-26) [Long/Short (allow_short=1)]
+---------------------------------------------------------------------
+cagr             2.42%
+total_return     11.98%
+max_dd           -9.14%
+sharpe           -0.583
+calmar           0.265
+years            4.731
+trades           242
+win_rate         30.17%
+avg_trade        -0.07%
+turnover_per_yr  102.304
+time_in_market   10.21%
+year-wise return:
+   2022    -6.41%
+   2023     3.34%
+   2024     0.46%
+   2025     8.89%
+   2026     5.84%
+
+FULL HORIZON (2017 to 2026) [Long/Short (allow_short=1)]
+--------------------------------------------------------
+cagr             6.53%
+total_return     83.07%
+max_dd           -9.29%
+sharpe           0.103
+calmar           0.703
+years            9.563
+trades           486
+win_rate         34.77%
+avg_trade        0.01%
+turnover_per_yr  101.638
+time_in_market   10.55%
+year-wise return:
+   2017     2.30%
+   2018    10.78%
+   2019     4.56%
+   2020    23.23%
+   2021    10.57%
+   2022    -5.24%
+   2023     3.34%
+   2024     0.46%
+   2025     8.89%
+   2026     5.84%
+
+>>> Running Harness for Long-Only (allow_short=0) <<<
+
+IN-SAMPLE (2017 to 2020-01-31) [Long-Only (allow_short=0)]
+----------------------------------------------------------
+cagr             6.57%
+total_return     19.71%
+max_dd           -0.41%
+sharpe           0.451
+calmar           16.069
+years            2.828
+trades           1
+win_rate         100.00%
+avg_trade        1.47%
+turnover_per_yr  0.707
+time_in_market   0.23%
+year-wise return:
+   2017     4.48%
+   2018     6.01%
+   2019     7.50%
+   2020     0.55%
+
+OUT-OF-SAMPLE (2022-02-01 to 2026-10-26) [Long-Only (allow_short=0)]
+--------------------------------------------------------------------
+cagr             5.73%
+total_return     30.14%
+max_dd           -3.58%
+sharpe           -0.166
+calmar           1.599
+years            4.731
+trades           5
+win_rate         40.00%
+avg_trade        -0.26%
+turnover_per_yr  2.114
+time_in_market   0.82%
+year-wise return:
+   2022     5.98%
+   2023     7.56%
+   2024     2.98%
+   2025     5.98%
+   2026     4.59%
+
+FULL HORIZON (2017 to 2026) [Long-Only (allow_short=0)]
+-------------------------------------------------------
+cagr             6.56%
+total_return     83.60%
+max_dd           -3.58%
+sharpe           0.286
+calmar           1.831
+years            9.563
+trades           11
+win_rate         54.55%
+avg_trade        0.45%
+turnover_per_yr  2.300
+time_in_market   0.70%
+year-wise return:
+   2017     4.48%
+   2018     6.01%
+   2019     7.50%
+   2020    12.10%
+   2021     5.18%
+   2022     6.52%
+   2023     7.56%
+   2024     2.98%
+   2025     5.98%
+   2026     4.59%

@@ -1,0 +1,35 @@
+leader,follower,min_pvalue,best_lag_days
+"Energy, Power & Utilities",FMCG & Consumer Goods,1.2323592021848717e-05,1
+"Chemicals, Petrochemicals & Fertilizers",Pharmaceuticals & Healthcare,0.0001251474611827621,1
+"Energy, Power & Utilities","Consumer Discretionary, Retail & Textiles",0.0010076879256710805,1
+Pharmaceuticals & Healthcare,"Chemicals, Petrochemicals & Fertilizers",0.0010583532851921478,1
+"Energy, Power & Utilities",Pharmaceuticals & Healthcare,0.0011590956586824607,4
+"Capital Goods, Defense & Infrastructure",FMCG & Consumer Goods,0.002550640870487985,1
+Metals & Mining,FMCG & Consumer Goods,0.002562461838986073,1
+Pharmaceuticals & Healthcare,"Consumer Discretionary, Retail & Textiles",0.0029798245131707566,1
+Pharmaceuticals & Healthcare,"Capital Goods, Defense & Infrastructure",0.0036407386721287885,5
+Information Technology (IT),"Chemicals, Petrochemicals & Fertilizers",0.0036640368272439737,1
+"Chemicals, Petrochemicals & Fertilizers",FMCG & Consumer Goods,0.004123035473389471,1
+Pharmaceuticals & Healthcare,Banking & Financial Services,0.004296127518503596,3
+FMCG & Consumer Goods,"Chemicals, Petrochemicals & Fertilizers",0.005155350281761032,1
+Metals & Mining,Pharmaceuticals & Healthcare,0.006512389784226352,1
+"Energy, Power & Utilities",Banking & Financial Services,0.006825093049244865,1
+Pharmaceuticals & Healthcare,Real Estate & Building Materials,0.008986514709565407,1
+"Capital Goods, Defense & Infrastructure",Pharmaceuticals & Healthcare,0.010487222750207808,4
+Real Estate & Building Materials,"Chemicals, Petrochemicals & Fertilizers",0.011599520099928338,2
+Pharmaceuticals & Healthcare,Metals & Mining,0.011719864588335795,2
+"Energy, Power & Utilities",Automobile & Auto Ancillaries,0.01203567127853737,1
+"Energy, Power & Utilities","Capital Goods, Defense & Infrastructure",0.013804467772945035,1
+Pharmaceuticals & Healthcare,"Energy, Power & Utilities",0.015558329606943599,2
+"Chemicals, Petrochemicals & Fertilizers",Information Technology (IT),0.016527961108349188,1
+"Chemicals, Petrochemicals & Fertilizers",Automobile & Auto Ancillaries,0.01740101828517751,1
+"Consumer Discretionary, Retail & Textiles",Pharmaceuticals & Healthcare,0.020853141065733036,1
+Real Estate & Building Materials,Metals & Mining,0.021482276663374083,5
+"Capital Goods, Defense & Infrastructure",Metals & Mining,0.02277613337497474,5
+"Capital Goods, Defense & Infrastructure","Consumer Discretionary, Retail & Textiles",0.0267309442939802,4
+Banking & Financial Services,Pharmaceuticals & Healthcare,0.02770006908688513,1
+FMCG & Consumer Goods,Pharmaceuticals & Healthcare,0.04027211050785374,1
+FMCG & Consumer Goods,"Energy, Power & Utilities",0.04123311270960023,1
+Pharmaceuticals & Healthcare,Automobile & Auto Ancillaries,0.04421150145499598,3
+"Energy, Power & Utilities","Chemicals, Petrochemicals & Fertilizers",0.04430280768717334,4
+"Energy, Power & Utilities",Information Technology (IT),0.046838027026183046,3

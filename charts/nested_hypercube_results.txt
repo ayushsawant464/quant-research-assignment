@@ -1,0 +1,140 @@
+
+=======================================================
+NESTED HIERARCHICAL HYPERCUBE STRATEGY: LONG-ONLY
+=======================================================
+
+IN-SAMPLE (2017 to 2022) [Long-Only]
+------------------------------------
+cagr             3.43%
+total_return     17.70%
+max_dd           -3.80%
+sharpe           -0.592
+calmar           0.902
+years            4.830
+trades           807
+win_rate         31.97%
+avg_trade        -0.01%
+turnover_per_yr  334.191
+time_in_market   7.92%
+year-wise return:
+   2017     1.80%
+   2018     2.41%
+   2019     2.61%
+   2020    12.41%
+   2021    -1.58%
+   2022    -0.55%
+
+OUT-OF-SAMPLE (2022 to 2026) [Long-Only]
+----------------------------------------
+cagr             2.07%
+total_return     10.20%
+max_dd           -5.25%
+sharpe           -1.069
+calmar           0.396
+years            4.731
+trades           695
+win_rate         32.81%
+avg_trade        -0.02%
+turnover_per_yr  293.806
+time_in_market   7.05%
+year-wise return:
+   2022     5.95%
+   2023    -0.54%
+   2024     1.62%
+   2025     1.87%
+   2026     1.02%
+
+FULL 10-YEAR HORIZON (2017 to 2026) [Long-Only]
+-----------------------------------------------
+cagr             2.78%
+total_return     30.02%
+max_dd           -5.25%
+sharpe           -0.802
+calmar           0.531
+years            9.563
+trades           1502
+win_rate         32.36%
+avg_trade        -0.02%
+turnover_per_yr  314.117
+time_in_market   7.49%
+year-wise return:
+   2017     1.80%
+   2018     2.41%
+   2019     2.61%
+   2020    12.41%
+   2021    -1.58%
+   2022     5.62%
+   2023    -0.54%
+   2024     1.62%
+   2025     1.87%
+   2026     1.02%
+
+=======================================================
+NESTED HIERARCHICAL HYPERCUBE STRATEGY: LONG/SHORT
+=======================================================
+
+IN-SAMPLE (2017 to 2022) [Long/Short]
+-------------------------------------
+cagr             -3.42%
+total_return     -15.49%
+max_dd           -17.08%
+sharpe           -1.295
+calmar           -0.200
+years            4.830
+trades           1448
+win_rate         32.18%
+avg_trade        -0.03%
+turnover_per_yr  599.639
+time_in_market   13.84%
+year-wise return:
+   2017    -4.10%
+   2018     0.70%
+   2019    -1.52%
+   2020     0.84%
+   2021   -11.13%
+   2022    -0.85%
+
+OUT-OF-SAMPLE (2022 to 2026) [Long/Short]
+-----------------------------------------
+cagr             -3.98%
+total_return     -17.49%
+max_dd           -24.60%
+sharpe           -1.760
+calmar           -0.162
+years            4.731
+trades           1421
+win_rate         32.72%
+avg_trade        -0.03%
+turnover_per_yr  600.718
+time_in_market   13.90%
+year-wise return:
+   2022    -3.82%
+   2023    -3.66%
+   2024    -7.51%
+   2025    -5.64%
+   2026     2.04%
+
+FULL 10-YEAR HORIZON (2017 to 2026) [Long/Short]
+------------------------------------------------
+cagr             -3.78%
+total_return     -30.79%
+max_dd           -34.08%
+sharpe           -1.499
+calmar           -0.111
+years            9.563
+trades           2869
+win_rate         32.45%
+avg_trade        -0.03%
+turnover_per_yr  600.001
+time_in_market   13.87%
+year-wise return:
+   2017    -4.10%
+   2018     0.70%
+   2019    -1.52%
+   2020     0.84%
+   2021   -11.13%
+   2022    -5.36%
+   2023    -3.66%
+   2024    -7.51%
+   2025    -5.64%
+   2026     2.04%
