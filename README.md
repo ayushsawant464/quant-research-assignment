@@ -1,5 +1,5 @@
 # Quantitative Research & Algorithmic Trading Architecture
-### H to H Partners LLP — Quantitative Research Intern Take-Home Project
+### — Quantitative Research Intern Take-Home Project
 
 [![Python 3.9+](https://img.shields.io/badge/python-3.9+-blue.svg)](https://www.python.org/downloads/)
 [![Task 1 In-Sample Sharpe](https://img.shields.io/badge/Task%201%20Sharpe-1.648-success.svg)](task1.py)
@@ -13,7 +13,7 @@
 
 ## Executive Summary & Scorecard
 
-This repository presents the end-to-end quantitative research, mathematical modeling, and production-ready algorithmic implementations for the **H to H Partners LLP** Quantitative Research take-home assessment.
+This repository presents the end-to-end quantitative research, mathematical modeling, and production-ready algorithmic implementations for the Quantitative Research take-home assessment.
 
 Both strategies have been designed under strict institutional constraints, accounting for execution delays, realistic transaction slippage, financing carry costs, and liquidity frictions. Both strategies **substantially outperform all assignment hurdle mandates** with zero lookahead bias:
 
@@ -263,5 +263,4 @@ python scripts/generate_crash_video.py
 
 ## Author & Candidate Information
 * **Role:** Quantitative Research Intern Take-Home Assessment
-* **Firm:** H to H Partners LLP
 * **Repository:** [ayushsawant464/quant-research-assignment](https://github.com/ayushsawant464/quant-research-assignment)
